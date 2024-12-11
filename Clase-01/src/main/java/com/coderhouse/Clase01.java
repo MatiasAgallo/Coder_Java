@@ -17,17 +17,17 @@ public class Clase01 {
 		
 		//Incrementar
 		
-		//int contador = 0;
+		int contador = 0;
 		
-		//System.out.println(contador);
+		System.out.println(contador);
 		
-	   // contador = 1;
+	    contador = 1;
 	    
-	    //System.out.println(contador);
+	    System.out.println(contador);
 		
-	   // contador = contador + 1;
+	    contador = contador + 1;
 	    
-	   // System.out.println(contador);
+	    System.out.println(contador);
 	    
 	
 	}
